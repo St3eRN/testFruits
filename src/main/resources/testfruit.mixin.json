@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "stern.dev.testfruit.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.testfruit.refmap.json",
+  "client": [
+  ]
+}

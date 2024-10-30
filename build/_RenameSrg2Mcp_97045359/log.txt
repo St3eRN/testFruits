@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Java\jdk-1.8\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\User\Desktop\test mod\gradle-3.5.1\caches\modules-2\files-2.1\curse.maven\mine-mine-no-mi-78726\5762433\fb984016db500736422d8aaf19974cf7b39bc39e\mine-mine-no-mi-78726-5762433.jar, --output, C:\Users\User\Desktop\test mod\gradle-3.5.1\caches\forge_gradle\deobf_dependencies\curse\maven\mine-mine-no-mi-78726\5762433_mapped_official_1.16.5\mine-mine-no-mi-78726-5762433_mapped_official_1.16.5.jar, --mcp, C:\Users\User\Desktop\test mod\gradle-3.5.1\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.16.5\mapping-1.16.5-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\User\Desktop\test mod\gradle-3.5.1\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\User\Desktop\testfruit\build\_RenameSrg2Mcp_97045359
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\User\Desktop\test mod\gradle-3.5.1\caches\modules-2\files-2.1\curse.maven\mine-mine-no-mi-78726\5762433\fb984016db500736422d8aaf19974cf7b39bc39e\mine-mine-no-mi-78726-5762433.jar
+Output: C:\Users\User\Desktop\test mod\gradle-3.5.1\caches\forge_gradle\deobf_dependencies\curse\maven\mine-mine-no-mi-78726\5762433_mapped_official_1.16.5\mine-mine-no-mi-78726-5762433_mapped_official_1.16.5.jar
+MCP:    C:\Users\User\Desktop\test mod\gradle-3.5.1\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.16.5\mapping-1.16.5-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete
